@@ -1,0 +1,29 @@
+body {
+
+    background-color: green;
+
+}
+div {
+
+    background-color: blue;
+    width: 33%;
+
+}
+
+
+
+.col { /* . is a class */
+    color: pink;
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    
+
+}
+
+#midColumn { /* # is for calling ID */
+
+    font-size: 100px;
+
+
+}
