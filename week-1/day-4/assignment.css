@@ -1,0 +1,129 @@
+body {
+
+background-color: white;
+min-height: 100vh;
+
+
+}
+
+.column {
+
+    width:30%; 
+    min-height:90vh;
+    float: left;
+}
+
+.divider {
+    border-left:10px solid black;
+    height:90%;
+    width: 1%
+}
+
+.imgFormat {
+    height: 200px;
+    width: 300px;
+    
+    vertical-align: middle;
+    margin: auto;
+    
+}
+
+.location {
+
+    vertical-align: middle;
+    margin: 0px 50px;
+    
+
+}
+
+h1{
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom:20px;
+
+}
+
+h2 {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto; 
+    padding-top: 20px;
+   padding-bottom: 50px;
+
+}
+
+h5 {
+    text-align: center;
+    vertical-align: middle;
+    margin: auto; 
+    padding-bottom:10px
+
+
+}
+
+#leftColText {
+
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    font-size: 32px; 
+    
+  
+}
+
+
+
+#leftCol {
+
+background-color: white;
+
+}
+#leftPic {
+    padding-top: 100px;
+    margin:auto;
+
+
+}
+
+#midCol {
+
+background-color: white;
+
+
+}
+#middlePic {
+    padding-bottom: 25px;
+
+
+
+}
+
+#rightCol {
+
+
+background-color: white;
+
+}
+
+#logoImg {
+
+    height: 200px;
+    width: 300px;
+    vertical-align: middle;
+    margin: 0px 50px;
+    
+
+}
+
+#location {
+
+    padding-top: 100px;
+}
+
+footer {
+
+
+    max-height:5vh;
+}
