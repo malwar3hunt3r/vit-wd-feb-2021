@@ -23,8 +23,8 @@
 - [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
 
 ### Learning Objectives
-- overflow
-- animation 
+- overflow (Carosal)
+- animation (transform = css rule)
 - keyframes
 - transform
 - translate
