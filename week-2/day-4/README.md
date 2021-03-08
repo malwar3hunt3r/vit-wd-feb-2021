@@ -7,7 +7,22 @@
 Yesterday, we learned the DOM but what was it all for?
 
 ### Enabling Learning Objectives
-- functions
+- functions (how are they utilized)
+
+    *** Syntax ***  function myFunction () { commands }
+
+    * declaration 
+    * invocation 
+    
+    Event Elements 
+        - Form
+        - Button
+        - input 
+    
+    Event Feature 
+        - listeners 
+        - handlers 
+
 - variables
 - assignment operator
 - console log
@@ -53,3 +68,10 @@ For a challenge, try implementing any or all of the bullets below
 - [DOM style transform](https://www.w3schools.com/jsref/prop_style_transform.asp)
 - [flip card](https://jsfiddle.net/kds0dy8f/)
 - [nature photography](https://www.google.com/search?q=nature+photography&tbm=isch&ved=2ahUKEwj-hNDr7-vsAhUnVd8KHdQ-CdAQ2-cCegQIABAA&oq=nat+photography&gs_lcp=CgNpbWcQARgAMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB46BAgAEEM6AggAUPscWOglYKkwaAJwAHgAgAFCiAG_AZIBATOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=9C6kX_66Baeq_QbU_aSADQ&bih=1306&biw=1720&rlz=1C5CHFA_en#imgrc=ObKRs20J-rw-tM&imgdii=7FdLu6_MHQAUIM)
+
+
+2 ways to utilize JS with HTML (and CSS)
+- script tag
+- external JS file
+
+
